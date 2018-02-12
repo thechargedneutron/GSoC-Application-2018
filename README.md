@@ -1,14 +1,14 @@
 
-# Sub-org name
-e.g. Dipy, MNE-Python. Please include this in the title of your application
-in the system as well.  __Projects without a valid sub-org may be lost or
-rejected.__
+# Python Software Foundation
+## Dipy
 
 # Student info
-* Name/Nicknames (e.g. on github, irc):
-* Email, telephone, alternate contact methods:
-* Time Zone:
+* Name:  Kumar Ashutosh
+* GitHub username:  thechargedneutron
+* Email: kumarashutosh.ee@gmail.com (Primary)  kumar.ashutosh@iitb.ac.in (Institute)
+* Time Zone:  UTC +5.30
 * GSoC Blog (you will be asked to blog about your project)
+* 
 
 # Code sample:
 * Link to a patch/code sample, preferably one you have submitted to your sub-org. Must be publicly available and your own work. Applications without a valid code sample will be rejected.
