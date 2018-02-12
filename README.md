@@ -1,14 +1,17 @@
 
+# GSoC 2018 Project Proposal
 # Python Software Foundation
-## Dipy
+## Sub-org: Dipy
 
 # Student info
 * Name:  Kumar Ashutosh
-* GitHub username:  thechargedneutron
-* Email: kumarashutosh.ee@gmail.com (Primary)  kumar.ashutosh@iitb.ac.in (Institute)
+* GitHub username:  [thechargedneutron](https://github.com/thechargedneutron)
+* Email: kumarashutosh.ee@gmail.com (Primary)  
+         kumar.ashutosh@iitb.ac.in (Institute)
 * Time Zone:  UTC +5.30
+* Nationality: Indian
 * GSoC Blog (you will be asked to blog about your project)
-* 
+* Phone: +91 8291339274, +91 8169454794
 
 # Code sample:
 * Link to a patch/code sample, preferably one you have submitted to your sub-org. Must be publicly available and your own work. Applications without a valid code sample will be rejected.
