@@ -24,6 +24,8 @@ I have extensively contributed to scikit-learn and dipy. My contributions are li
 * [[#9584](https://github.com/scikit-learn/scikit-learn/pull/9584)] Switching tests to pytest and removing nose dependencies
 * [[#9588](https://github.com/scikit-learn/scikit-learn/pull/9588)] Improves delimiter in read_bvals_bvecs
 
+
+
 ## Contributions to scikit-learn
 * [[#9536](https://github.com/scikit-learn/scikit-learn/pull/9536)] Backports msg in assert\_raises and assert\_raises\_regex
 * [[#9588](https://github.com/scikit-learn/scikit-learn/pull/9588)] Adds helpful messages in all error assertions in estimator\_checks
