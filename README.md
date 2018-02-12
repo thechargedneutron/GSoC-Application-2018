@@ -24,10 +24,6 @@ I have extensively contributed to scikit-learn and dipy. My contributions are li
 * [[#1422](https://github.com/nipy/dipy/pull/1422)] Improves delimiter in read_bvals_bvecs  
 
 
-* [[#9536](https://github.com/scikit-learn/scikit-learn/pull/9536)] assert_true which checks for equality replaced with assert_equal
-* [[#9588](https://github.com/scikit-learn/scikit-learn/pull/9588)] Default colormap changed in examples
-* [[#9584](https://github.com/scikit-learn/scikit-learn/pull/9584)] Switching tests to pytest and removing nose dependencies
-* [[#9683](https://github.com/scikit-learn/scikit-learn/pull/9683)] Improves delimiter in read_bvals_bvecs
 
 ## Contributions to scikit-learn
 * [[#9536](https://github.com/scikit-learn/scikit-learn/pull/9536)] Backports msg in assert\_raises and assert\_raises\_regex
