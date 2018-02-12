@@ -14,6 +14,18 @@
 * Phone: +91 8291339274, +91 8169454794
 
 # Code sample:
+Some fancy line regarding my interest in Open Source.
+
+I have extensively contributed to scikit-learn and dipy. My contributions are listed below:  
+## Contributions to dipy  
+[assert_true which checks for equality replaced with assert_equal](https://github.com/nipy/dipy/pulls/1406)
+[Default colormap changed in examples](https://github.com/nipy/dipy/pulls/1407)
+[Switching tests to pytest and removing nose dependencies](https://github.com/nipy/dipy/pulls/1414)
+[Improves delimiter in read_bvals_bvecs](https://github.com/nipy/dipy/pulls/1422)
+
+## Contributions to scikit-learn
+
+
 * Link to a patch/code sample, preferably one you have submitted to your sub-org. Must be publicly available and your own work. Applications without a valid code sample will be rejected.
 
 # Project info
