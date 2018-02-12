@@ -7,7 +7,7 @@
 * Name:  Kumar Ashutosh
 * GitHub username:  [thechargedneutron](https://github.com/thechargedneutron)
 * Email: kumarashutosh.ee@gmail.com (Primary)  
-         kumar.ashutosh@iitb.ac.in (Institute)
+         -- kumar.ashutosh@iitb.ac.in (Institute)
 * Time Zone:  UTC +5.30
 * Nationality: Indian
 * GSoC Blog (you will be asked to blog about your project)
@@ -18,7 +18,7 @@ Some fancy line regarding my interest in Open Source.
 
 I have extensively contributed to scikit-learn and dipy. My contributions are listed below:  
 ## Contributions to dipy  
-
+Correct PR #s
 * [[#9536](https://github.com/scikit-learn/scikit-learn/pull/9536)] assert_true which checks for equality replaced with assert_equal
 * [[#9588](https://github.com/scikit-learn/scikit-learn/pull/9588)] Default colormap changed in examples
 * [[#9584](https://github.com/scikit-learn/scikit-learn/pull/9584)] Switching tests to pytest and removing nose dependencies
