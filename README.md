@@ -18,13 +18,27 @@ Some fancy line regarding my interest in Open Source.
 
 I have extensively contributed to scikit-learn and dipy. My contributions are listed below:  
 ## Contributions to dipy  
-[[#1406]](https://github.com/nipy/dipy/pull/1406) assert_true which checks for equality replaced with assert_equal  
-[[#1407]](https://github.com/nipy/dipy/pull/1407) Default colormap changed in examples  
-[#1414](https://github.com/nipy/dipy/pull/1414) Switching tests to pytest and removing nose dependencies  
-[#1422](https://github.com/nipy/dipy/pull/1422) Improves delimiter in read_bvals_bvecs  
+[[#1406](https://github.com/nipy/dipy/pull/1406)] assert_true which checks for equality replaced with assert_equal  
+[[#1407](https://github.com/nipy/dipy/pull/1407)] Default colormap changed in examples  
+[[#1414](https://github.com/nipy/dipy/pull/1414)] Switching tests to pytest and removing nose dependencies  
+[[#1422](https://github.com/nipy/dipy/pull/1422)] Improves delimiter in read_bvals_bvecs  
 
 ## Contributions to scikit-learn
+[[#9536](https://github.com/scikit-learn/scikit-learn/pull/9536)] Backports msg in assert\_raises and assert\_raises\_regex
 
+[[#9588](https://github.com/scikit-learn/scikit-learn/pull/9588)] Adds helpful messages in all error assertions in estimator\_checks
+
+[[#9584](https://github.com/scikit-learn/scikit-learn/pull/9584)] Implements ducktyping to allow for alternative Memory implementations
+
+[[#9683](https://github.com/scikit-learn/scikit-learn/pull/9683)] Addresses test errors on numpy-dev
+
+[[#9677](https://github.com/scikit-learn/scikit-learn/pull/9677)] Changes default for return\_train\_score to False
+
+[[#9717](https://github.com/scikit-learn/scikit-learn/pull/9717)] Deprecates gaussian process regression\_models and correlation\_models.
+
+[[#9257](https://github.com/scikit-learn/scikit-learn/pull/9257)] Adds a new class RegressorChain similar to ClassifierChain
+
+[[#9875](https://github.com/scikit-learn/scikit-learn/pull/9875)] Improves class design for Agglomerative Clustering and FeatureAgglomeration
 
 * Link to a patch/code sample, preferably one you have submitted to your sub-org. Must be publicly available and your own work. Applications without a valid code sample will be rejected.
 
