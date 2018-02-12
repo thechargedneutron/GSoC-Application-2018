@@ -7,7 +7,7 @@
 * Name:  Kumar Ashutosh
 * GitHub username:  [thechargedneutron](https://github.com/thechargedneutron)
 * Email: kumarashutosh.ee@gmail.com (Primary)  
-         -- kumar.ashutosh@iitb.ac.in (Institute)
+         .. kumar.ashutosh@iitb.ac.in (Institute)
 * Time Zone:  UTC +5.30
 * Nationality: Indian
 * GSoC Blog (you will be asked to blog about your project)
