@@ -18,10 +18,6 @@ Some fancy line regarding my interest in Open Source.
 
 I have extensively contributed to scikit-learn and dipy. My contributions are listed below:  
 ## Contributions to dipy  
-* [[#1406](https://github.com/nipy/dipy/pull/1406)] assert_true which checks for equality replaced with assert_equal  
-* [[#1407](https://github.com/nipy/dipy/pull/1407)] Default colormap changed in examples  
-* [[#1414](https://github.com/nipy/dipy/pull/1414)] Switching tests to pytest and removing nose dependencies  
-* [[#1422](https://github.com/nipy/dipy/pull/1422)] Improves delimiter in read_bvals_bvecs  
 
 * [[#9536](https://github.com/scikit-learn/scikit-learn/pull/9536)] assert_true which checks for equality replaced with assert_equal
 * [[#9588](https://github.com/scikit-learn/scikit-learn/pull/9588)] Default colormap changed in examples
